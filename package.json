@@ -2,9 +2,10 @@
   "name": "socket_io_chat",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "main": "server_part.js",
+  "scripts": 
+  {
+    "start": "node server_part.js"
   },
   "author": "",
   "license": "ISC",
